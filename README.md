@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the demo tool
 ```bash
-python tool.py
+python infocyn.py
 ```
 
 ---
